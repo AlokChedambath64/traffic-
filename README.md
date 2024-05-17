@@ -47,6 +47,6 @@ Notable insights from this project include:
 
 ## Running on your device
 
-[![Screenshot 2024-05-10 211404](https://github.com/AlokChedambath64/traffic-/assets/110228030/414c76ae-1a54-4c51-9190-12593d4a0860)](https://github.com/EdjeElectronics/TensorFlow-Lite-Object-Detection-on-Android-and-Raspberry-Pi/blob/master/deploy_guides/Windows_TFLite_Guide.md)
+(https://github.com/EdjeElectronics/TensorFlow-Lite-Object-Detection-on-Android-and-Raspberry-Pi/blob/master/deploy_guides/Windows_TFLite_Guide.md)
 
 
