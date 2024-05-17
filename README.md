@@ -8,7 +8,7 @@ Traffic is a project aimed at classifying traffic signs in real time using input
 
 The primary outcome of this project is the successful creation and use of a custom dataset for traffic sign classification. Initially, a small dataset of 17 images was created and labeled using LabelImg, which resulted in a model that could classify traffic signs but also produced a significant number of false positives. 
 
-After expanding the dataset to over 100 images with diverse backgrounds, lighting conditions, and angles, and increasing the model training iterations to 30,000, the accuracy of the model improved significantly, reducing the false positives. 
+After expanding the dataset to over 100 images with diverse backgrounds, lighting conditions, and angles, and increasing the model training steps to 30,000, the accuracy of the model improved significantly, reducing the false positives. 
 
 Notable insights from this project include:
 - Custom datasets can be effectively created and used for specific image classification tasks.
