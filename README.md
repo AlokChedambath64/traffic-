@@ -15,6 +15,13 @@ Notable insights from this project include:
 - Increasing the diversity of training data and the number of training iterations can significantly enhance model performance.
 - Understanding and utilizing tools like OpenCV and TensorFlow Lite are crucial for real-time image processing tasks.
 
+![image](https://github.com/AlokChedambath64/traffic-/assets/110228030/0a24729d-f135-42ce-a58c-acc3b89d24da)
+
+
+![Screenshot 2024-05-10 211404](https://github.com/AlokChedambath64/traffic-/assets/110228030/bdd4c2d7-a7e6-4cc2-a792-bdd22f3ad9b4)
+
+
+
 ## My Process
 
 1. **Learning OpenCV**: Started by learning how OpenCV works and how to access the laptop's front camera.
